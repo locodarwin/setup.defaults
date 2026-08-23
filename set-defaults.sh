@@ -80,6 +80,7 @@ EDITOR_APPS=(
   "micro|micro"
   "nano|nano"
   "jedit|jEdit"
+  "fresh|Fresh"
 )
 
 VIDEO_APPS=(
