@@ -53,6 +53,7 @@ BROWSER_APPS=(
   "vivaldi-stable.desktop|Vivaldi"
   "vivaldi.desktop|Vivaldi"
   "librewolf.desktop|LibreWolf"
+  "mullvad-browser.desktop|Mullvad"
   "floorp.desktop|Floorp"
   "epiphany.desktop|Epiphany"
   "org.gnome.Epiphany.desktop|Epiphany"
